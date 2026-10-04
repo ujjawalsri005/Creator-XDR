@@ -1509,7 +1509,7 @@ Sensitive identity information should not be placed on public blockchains.
 | Aditi   | Cybersecurity & Threat Detection  |
 | Sheetal | Backend & Database                |
 | Shlok   | Frontend Development              |
-| Ujwala  | Threat Intelligence & Testing     |
+| Ujjawal  | Threat Intelligence & Testing     |
 
 ---
 
